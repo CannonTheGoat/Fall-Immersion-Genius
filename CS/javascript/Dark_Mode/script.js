@@ -14,4 +14,4 @@ function darkMode() {
         body.style.color = 'black';
     }
 
-  }
+    }
